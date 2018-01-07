@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//ExportData/Export.py=utf-8
+encoding//app/UseLib/TokenAccess.py=utf-8
+encoding//app/UseLib/auth.py=utf-8
+encoding//app/UseLib/insertdata.py=utf-8
+encoding//app/forms.py=utf-8
+encoding//app/models.py=utf-8
+encoding//app/views.py=utf-8
+encoding/Log.py=utf-8
+encoding/config.py=utf-8
+encoding/runserver.py=utf-8
+encoding/start.py=utf-8
+encoding/test.py=utf-8
