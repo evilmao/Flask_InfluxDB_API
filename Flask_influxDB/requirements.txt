@@ -16,7 +16,7 @@ hupper==1.0
 idna==2.5
 influxdb==4.1.1
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 keyring==10.4.0
 MarkupSafe==1.0
 mohawk==0.3.4
